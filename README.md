@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**YashPrakash07/YashPrakash07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +9,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashPrakash07&show_icons=true&hide_border=true&theme=dark" alt="Yash's Github Stats" />
+  <img alt="Yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YashPrakash07&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+</div>
