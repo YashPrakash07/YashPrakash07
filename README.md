@@ -12,3 +12,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashPrakash07&show_icons=true&hide_border=true&theme=dark" alt="Yash's Github Stats" />
   <img alt="Yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YashPrakash07&count_private=true&show_icons=true&hide_border=true&theme=dark" />
 </div>
+
+## Snake Eating my Contributions
+
+![snake gif](https://github.com/YashPrakash07/YashPrakash07/blob/output/github-contribution-grid-snake.gif)
