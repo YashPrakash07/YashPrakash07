@@ -1,20 +1,31 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN Stack
 - ✍🏻 Love Competitive Coding
 - 🌱 I’m Final Year Undergrad student
 - 👯 I’m looking for future collaborations
-- 💬 Ask me about DSA and Development
+- 💬 Ask me about DSA and Development -->
 
 
+<h1 align="center">Hi 👋, I'm Yash Prakash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashprakash07&label=Profile%20views&color=0e75b6&style=flat" alt="yashprakash07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashprakash07" alt="yashprakash07" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/yashprakash07" target="blank"><img src="https://img.shields.io/twitter/follow/yashprakash07?logo=twitter&style=for-the-badge" alt="yashprakash07" /></a> </p>
+
+- 🔭 I’m currently working on **MERN Stack**
+
+- 🌱 I’m currently learning **React**
+- ✍🏻 Love Competitive Coding.
+- 🥷🏽 I’m Final Year Undergrad student.
+- 👨‍💻 All of my projects are available at [https://portyashfolio.netlify.app/](https://portyashfolio.netlify.app/)
+- 💬 Ask me about **DSA and Development**
+- 📫 How to reach me **Yashprakash07@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OY79w4YpXfPtdC09y6LvfSy2zEcvh70v/view](https://drive.google.com/file/d/1OY79w4YpXfPtdC09y6LvfSy2zEcvh70v/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,6 +45,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashprakash07&show_icons=true&locale=en" alt="yashprakash07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashprakash07&" alt="yashprakash07" /></p>
+
 
 
 ## Snake Eating my Contributions
