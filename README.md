@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 
 ## Snake Eating my Contributions
 
-![snake gif](https://github.com/YashPrakash07/YashPrakash07/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/Yashprakash07/Yashprakash07/blob/output/github-contribution-grid-snake.svg" /></p>
