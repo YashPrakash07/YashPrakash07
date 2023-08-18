@@ -3,7 +3,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN Stack
 - ✍🏻 Love Competitive Coding
-- 🌱 I’m Final Year Undergrad student
+- 🐱‍🏍 I’m Final Year Undergrad student
 - 👯 I’m looking for future collaborations
 - 💬 Ask me about DSA and Development -->
 
