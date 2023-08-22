@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Yash Prakash</h1>
 <h3 align="center">A passionate developer from India!</h3>
 
-<img align="right" alt="coding" width="350" src="<iframe src="https://giphy.com/embed/11jacPItBsJDLa" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-11jacPItBsJDLa">via GIPHY</a></p>">
+<img align="right" alt="coding" width="350" src="http://www.funnyjunk.com/comment/anonymous/content/4204293/-5/1/parent_id/20/3">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashprakash07&label=Profile%20views&color=0e75b6&style=flat" alt="yashprakash07" /> </p>
 
