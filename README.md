@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **React**
 - ✍🏻 Love Competitive Coding.
 - 🥷🏽 I’m Final Year Undergrad student.
-- 👨‍💻 All of my projects are available at [https://portyashfolio.netlify.app/](https://portyashfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portyashfolio.netlify.app/)
 - 💬 Ask me about **DSA and Development**
 - 📫 How to reach me **Yashprakash07@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OY79w4YpXfPtdC09y6LvfSy2zEcvh70v/view](https://drive.google.com/file/d/1OY79w4YpXfPtdC09y6LvfSy2zEcvh70v/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JaRdtm0PFe9w-GLKZspeoszEGWV-50im/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
