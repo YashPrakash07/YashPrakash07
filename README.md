@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [Portfolio](https://portyashfolio.netlify.app/)
 - 💬 Ask me about **DSA and Development**
 - 📫 How to reach me **Yashprakash07@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JaRdtm0PFe9w-GLKZspeoszEGWV-50im/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16hnOLApAMczcgg4YEEn2bL40_40Ctyi5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
