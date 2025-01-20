@@ -3,7 +3,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN Stack
 - ✍🏻 Love Competitive Coding
-- 🐱‍🏍 I’m Final Year Undergrad student
+- 🐱‍🏍 I’m a Final Year Undergrad student
 - 👯 I’m looking for future collaborations
 - 💬 Ask me about DSA and Development -->
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashprakash07&label=Profile%20views&color=0e75b6&style=flat" alt="yashprakash07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashprakash07&label=Profile%20views&color=0e75b6&style=flat" alt="yashprakash07"/> </p>
 
 <p align="left"> <a href="https://twitter.com/yashprakash07" target="blank"><img src="https://img.shields.io/twitter/follow/yashprakash07?logo=twitter&style=for-the-badge" alt="yashprakash07" /></a> </p>
 
@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashprakash07&show_icons=true&locale=en" alt="yashprakash07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashprakash07&" alt="yashprakash07" /></p>
+<!-- ### Hi there <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashprakash07&" alt="yashprakash07" /></p>---!>
 
