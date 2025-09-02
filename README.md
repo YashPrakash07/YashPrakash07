@@ -79,7 +79,7 @@
   <a href="https://github.com/YashPrakash07/OneCode-IDE">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=OneCode-IDE&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=8B949E&icon_color=F8D866" />
   </a>
-  <a href="https://github.com/YashPrakash07/Online-Financial-Management">
+  <a href="https://github.com/YashPrakash07/vpnranker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=Online-Financial-Management&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=8B949E&icon_color=F8D866" />
   </a>
 </p>
