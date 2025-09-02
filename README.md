@@ -73,12 +73,32 @@
 
 ---
 
-# 📂 Featured Projects  
+# 🚀 Featured Projects  
 
-[![OneCode IDE](https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=OneCode-IDE&theme=react&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/YashPrakash07/OneCode-IDE)
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=YashPrakash07.github.io&theme=react&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://yashprakash.netlify.app)
+<p align="center">
+  <a href="https://github.com/YashPrakash07/OneCode-IDE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=OneCode-IDE&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=8B949E&icon_color=F8D866" />
+  </a>
+  <a href="https://github.com/YashPrakash07/Online-Financial-Management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=Online-Financial-Management&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=8B949E&icon_color=F8D866" />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/YashPrakash07/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=Portfolio&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=8B949E&icon_color=F8D866" />
+  </a>
+  <a href="https://github.com/YashPrakash07/Some-Other-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=Some-Other-Project&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=8B949E&icon_color=F8D866" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YashPrakash07?tab=repositories">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-View%20All%20Repos-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 
 # 📊 GitHub Stats  
 
