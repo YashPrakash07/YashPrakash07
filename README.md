@@ -68,8 +68,8 @@
   <a href="https://github.com/YashPrakash07/OneCode-IDE" target="_blank">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=OneCode-IDE&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="OneCode IDE"/>
   </a>
-  <a href="https://github.com/YashPrakash07/3d-portfolio" target="_blank">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=3d-portfolio&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="3D Portfolio"/>
+  <a href="https://github.com/YashPrakash07/codeplanner-ai" target="_blank">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=codeplanner-ai&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Codeplanner-ai"/>
   </a>
 </p>
 
