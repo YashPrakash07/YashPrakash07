@@ -22,10 +22,10 @@
 </p>  
 
 <p align="center">   
-  <a href="https://yashprakash.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=vercel&logoColor=white" /></a>   
-  <a href="https://linkedin.com/in/yashprakash07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>   
-  <a href="mailto:yashprakash07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>   
-  <a href="https://github.com/YashPrakash07"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
+  <a href="https://yashprakash.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>   
+  <a href="https://linkedin.com/in/yashprakash07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>   
+  <a href="mailto:yashprakash07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>   
+  <a href="https://github.com/YashPrakash07" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> 
 </p>  
 
 ---
@@ -37,12 +37,12 @@
     <td valign="top">       
       - 💻 2+ years experience as a <b>Full Stack Developer</b><br>       
       - 🔥 Proficient in <b>JavaScript</b>, <b>Python</b>, <b>React.js</b>, <b>Node.js</b>, <b>REST APIs</b><br>       
-      - ☁️ Exploring <b>AWS</b>, <b>Serverless</b>, <b>Cloud-native</b> architectures<br>       
-      - 🤖 Currently building with <b>AI/ML</b> and <b>LLM-powered systems</b><br>       
-      - 🎯 Objective: Ship scalable products blending <b>intelligence</b> and <b>modern web</b>     
+      - ☁️ Exploring <b>AWS</b>, <b>Serverless</b> architecture, and <b>Cloud-native</b> paradigms<br>       
+      - 🤖 Currently immersed in <b>AI/ML</b> and <b>Web3</b> technologies<br>       
+      - 🎯 Objective: Innovate by blending <b>decentralized systems</b> with <b>intelligent algorithms</b>     
     </td>     
     <td width="300" align="right">       
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZ5b3Nxb2NkdXBjdHJkZ3R2aXU4dmY2NXNub3h3dHd0aGJ3cTFwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" />     
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZ5b3Nxb2NkdXBjdHJkZ3R2aXU4dmY2NXNub3h3dHd0aGJ3cTFwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Coding illustration"/>     
     </td>   
   </tr> 
 </table>  
@@ -50,7 +50,7 @@
 ---
 
 ### 🧠 Engineering Focus
-Designing performant, secure, and scalable full-stack systems with a strong bias for developer experience and long-term maintainability.
+I design and build production-grade systems with emphasis on performance, scalability, and maintainability.
 
 ---
 
@@ -111,32 +111,35 @@ Designing performant, secure, and scalable full-stack systems with a strong bias
 ### 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/YashPrakash07/OneCode-IDE">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=OneCode-IDE&theme=radical&bg_color=0D1117" />
+  <a href="https://github.com/YashPrakash07/OneCode-IDE" target="_blank">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=OneCode-IDE&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   </a>
-  <a href="https://github.com/YashPrakash07/codeplanner-ai">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=codeplanner-ai&theme=radical&bg_color=0D1117" />
+  <a href="https://github.com/YashPrakash07/codeplanner-ai" target="_blank">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=codeplanner-ai&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YashPrakash07?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/YashPrakash07/Weather-app-react" target="_blank">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=Weather-app-react&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+  <a href="https://github.com/YashPrakash07/vpnranker" target="_blank">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YashPrakash07&repo=vpnranker&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashPrakash07&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" height="190px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPrakash07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="190px"/>
-</p>
+<p align="center">   
+  <img src="https://github-readme-stats.vercel.app/api?username=YashPrakash07&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />     
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPrakash07&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />   
+</p>  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashPrakash07&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" />
-</p>
+<p align="center">   
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashPrakash07&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" /> 
+</p>  
 
 ---
 
